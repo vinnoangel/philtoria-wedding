@@ -261,7 +261,7 @@ export default function App() {
                 </div>
                 <div className="border border-[#ddcda9] bg-[#fffaf0] p-7 shadow-[0_12px_35px_rgba(118,15,20,0.05)] sm:p-9">
                   <p className="font-sans text-[10px] uppercase tracking-[0.25em] text-[#a46a17]">Bride</p>
-                  <h3 className="mt-3 font-serif text-2xl text-[#760f14]">Victoria Uwakwe Chidinma</h3>
+                  <h3 className="mt-3 font-serif text-2xl text-[#760f14]">Victoria Chidinma Uwakwe</h3>
                   <div className="mt-6 space-y-3 font-sans text-sm text-[#657067]">
                     <p><span className="text-xs uppercase tracking-wider text-[#a46a17]">Account number</span><strong className="mt-1 block text-lg tracking-[0.12em] text-[#24352c]">813 522 6484</strong></p>
                     <p><span className="text-xs uppercase tracking-wider text-[#a46a17]">Bank</span><strong className="mt-1 block text-lg text-[#24352c]">Opay</strong></p>
