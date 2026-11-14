@@ -16,8 +16,16 @@ const Support = () => {
             <p className="font-sans text-[10px] uppercase tracking-[0.25em] text-[#a46a17]">Groom</p>
             <h3 className="mt-3 font-serif text-2xl text-[#760f14]">Philip Eberechi Chima</h3>
             <div className="mt-6 space-y-3 font-sans text-sm text-[#657067]">
+              <p><span className="text-sm uppercase tracking-wider text-[#a46a17]"><strong>Naira Account</strong></span></p>
               <p><span className="text-xs uppercase tracking-wider text-[#a46a17]">Account number</span><strong className="mt-1 block text-lg tracking-[0.12em] text-[#24352c]">3050669841</strong></p>
-              <p><span className="text-xs uppercase tracking-wider text-[#a46a17]">Bank</span><strong className="mt-1 block text-lg text-[#24352c]">FirstBank</strong></p>
+              <p><span className="text-xs uppercase tracking-wider text-[#a46a17]">Bank</span><strong className="mt-1 block text-lg text-[#24352c]">First Bank</strong></p>
+            </div>
+            <hr className="mt-6 border-gray-200 dark:border-gray-800" />
+            <div className="mt-6 space-y-3 font-sans text-sm text-[#657067]">
+              <p><span className="text-sm uppercase tracking-wider text-[#a46a17]"><strong>Euro Account</strong></span></p>
+              <p><span className="text-xs uppercase tracking-wider text-[#a46a17]">IBAN</span><strong className="mt-1 block text-lg tracking-[0.12em] text-[#24352c]">LT423250017909739619</strong></p>
+              <p><span className="text-xs uppercase tracking-wider text-[#a46a17]">Bank</span><strong className="mt-1 block text-lg text-[#24352c]">Revolut</strong></p>
+              <p><span className="text-xs uppercase tracking-wider text-[#a46a17]">Click <a href="http://revolut.me/philipt2is" target="_blank" className="text-[#760f14]">here</a> to donate</span></p>
             </div>
           </div>
           <div className="border border-[#ddcda9] bg-[#fffaf0] p-7 shadow-[0_12px_35px_rgba(118,15,20,0.05)] sm:p-9">
